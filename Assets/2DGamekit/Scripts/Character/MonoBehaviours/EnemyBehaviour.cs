@@ -26,6 +26,7 @@ namespace Gamekit2D
         [Header("References")]
         [Tooltip("If the enemy will be using ranged attack, set a prefab of the projectile it should use")]
         public Bullet projectilePrefab;
+        
 
         [Header("Scanning settings")]
         [Tooltip("The angle of the forward of the view cone. 0 is forward of the sprite, 90 is up, 180 behind etc.")]
