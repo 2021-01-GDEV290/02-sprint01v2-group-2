@@ -4916,11 +4916,11 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 114793620227127496}
         m_TargetAssemblyTypeName: Gamekit2D.Bullet, Assembly-CSharp
-        m_MethodName: OnHitNonDamageable
-        m_Mode: 2
+        m_MethodName: OnHitDamageable
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: Gamekit2D.Damager, Assembly-CSharp
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
